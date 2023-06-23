@@ -3,9 +3,9 @@
 </p>
 
 ## 👋 About the Organisation
-Welcome to Cosmos Roleplay Asia!
+Welcome to Roleplay Central Asia!
 
-We are dedicated to providing an immersive roleplay experience tailored for the Indian community on the FiveM platform. With a focus on Indian roleplayers, we meticulously craft captivating virtual environments and unique gameplay mechanics. At Cosmos Roleplay Asia, we highly value the feedback and ideas of our community, actively collaborating to shape the evolution of our organization.
+We are dedicated to providing an immersive roleplay experience tailored for the Indian community on the FiveM platform. With a focus on Indian roleplayers, we meticulously craft captivating virtual environments and unique gameplay mechanics. At Roleplay Central Asia, we highly value the feedback and ideas of our community, actively collaborating to shape the evolution of our organization.
 
 Please note that this Organisation is solely for the purpose of Cosmos Roleplay development.
 
