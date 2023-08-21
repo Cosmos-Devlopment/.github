@@ -1,15 +1,13 @@
 <p align="center">
-<!--   <img src="https://github.com/CosmosRoleplayIndia/.github/assets/91739770/e2a03081-e68f-42fb-b347-915a5ccdfaaa" alt="Cosmos Logo"> -->
+  <img src="https://github.com/Roleplay-Central/.github/assets/91739770/24270c39-32ff-439a-92b9-183e6487cc0e" alt="TWRP Logo">
 </p>
 
 ## 👋 About The Organisation
-Welcome to Roleplay Central Asia!
+**Howdy, folks! Welcome to The Western Roleplay**,
 
-We are dedicated to providing an immersive roleplay experience tailored for the Indian community on the FiveM platform. With a focus on Indian roleplayers, we meticulously craft captivating virtual environments and unique gameplay mechanics. At Roleplay Central Asia, we highly value the feedback and ideas of our community, actively collaborating to shape the evolution of our organization.
+Where the Wild West comes alive in RedM. We're not your ordinary server – we're an uprising, a rowdy bunch of cowboys and cowgirls forging a new frontier.
 
-Please note that this Organisation is solely for the purpose of Roleplay Central Development.
-
-Join us on an exceptional roleplaying journey in India, where your imagination knows no bounds. Together, let's create unforgettable stories and build a thriving roleplaying community.
+Our community thrives on your ideas and feedback. Join our Discord and saddle up for the most rootin' tootin', shootin' roleplay adventure this side of the Rio Grande. Together, we're creatin' stories that'll echo through the canyons and build a community as sturdy as a prairie homestead. It's an uprising like no other, partner. Yeehaw! So, join our Discord now and let's ride!
 
 ## 👉 Join Our Community
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sz64EPUEJP)
